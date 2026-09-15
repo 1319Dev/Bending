@@ -1,3 +1,5 @@
+**Live app:** https://1319dev.github.io/Bending/
+
 # Pipeline Bend Calculator
 
 A self-contained engineering calculator for **circular pipe bends** used in pipeline and process piping. Select NPS / DN size and schedule, set bend angle and centerline radius (CLR), optionally add tangents, and get live developed lengths and takeoffs.
